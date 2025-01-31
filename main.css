@@ -856,10 +856,11 @@ button,
   #footer .icons {
     margin: 0 0 0.5em 0; }
   #footer .copyright {
-    
+    position: center; 
     font-size: 0.8em;
     list-style: none;
     padding: 0; }
+	
     #footer .copyright li {
       border-left: solid 1px rgba(255, 255, 255, 0.25);
       display: inline-block;

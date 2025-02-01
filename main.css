@@ -852,11 +852,13 @@ button,
   transition: opacity 0.5s ease-in-out;
   bottom: 4em;
   color: rgba(255, 255, 255, 0.5);
-  text-align: center
+  margin-left: auto;
+  margin-right: auto;
   opacity: 0.5;
   position: absolute; }
   #footer .icons {
-    text-align: center
+    margin-left: auto;
+    margin-right: auto;
     /*margin: 0 0 0.5em 0; */}
   #footer .copyright {
 
@@ -871,7 +873,8 @@ button,
       /* margin: 0 0 0 0.75em;
       padding: 0 0 0 0.75em; */}
       #footer .copyright li:first-child {
-	text-align: center;  }
+	margin-left: auto;
+	margin-right: auto; }
     #footer .copyright a {
       color: inherit; }
   #footer:hover {

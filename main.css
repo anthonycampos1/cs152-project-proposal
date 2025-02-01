@@ -852,7 +852,7 @@ button,
   transition: opacity 0.5s ease-in-out;
   bottom: 4em;
   color: rgba(255, 255, 255, 0.5);
-  left: 4em;
+  text-align: center
   opacity: 0.5;
   position: absolute; }
   #footer .icons {

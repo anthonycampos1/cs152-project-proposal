@@ -852,10 +852,14 @@ button,
   transition: opacity 0.5s ease-in-out;
   bottom: 4em;
   color: rgba(255, 255, 255, 0.5);
-  margin-left: auto;
-  margin-right: auto;
+	
+  left: 0;
+  right: 0;
+  text-align: center; 
+  width: 100%; 
+	
   opacity: 0.5;
-  position: absolute; }
+  /*position: absolute; */}
   #footer .icons {
     margin-left: auto;
     margin-right: auto;

@@ -375,14 +375,14 @@ header h2 + p {
 
 header h3 + p {
   font-size: 1.1em;
-  margin-top: -0.8em;
+  margin-top: 0.1em;
   line-height: 1.5em; }
 
 header h4 + p,
 header h5 + p,
 header h6 + p {
   font-size: 0.9em;
-  margin-top: -0.6em;
+  margin-top: 0.1em;
   line-height: 1.5em; }
 
 @media screen and (max-width: 980px) {

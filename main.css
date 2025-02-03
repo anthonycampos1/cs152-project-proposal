@@ -874,8 +874,8 @@ button,
       border-left: solid 1px rgba(255, 255, 255, 0.25);
       display: inline-block;
       line-height: 1em;
-      /* margin: 0 0 0 0.75em;
-      padding: 0 0 0 0.75em; */}
+      margin: 0 0 0 0.75em;/* changed this*/
+      padding: 0 0 0 0.75em;}/* and changed this*/
       #footer .copyright li:first-child {
 	margin-left: auto;
 	margin-right: auto; }
